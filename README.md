@@ -1,4 +1,4 @@
-# HousingAnywhere — Madrid Market Analysis
+# Madrid Market Analysis
 
 ## Overview
 A data analysis project examining the performance of HousingAnywhere's Madrid rental marketplace over a three-year period (2023–2025).
